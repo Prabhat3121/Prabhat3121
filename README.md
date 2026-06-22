@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m a final-year B.Tech student in Computer Science and Engineering with a specialization in Data Science<br>🤝 I’m looking to collaborate on machine learning, computer vision, NLP, and analytics-driven projects<br>🧑‍💻 I’m looking for help with deploying scalable AI/ML and data analytics applications<br>🌱 I’m currently learning deep learning, data visualization, and business analytics<br>💬 Ask me about Python, Flask, data analytics, and AI/ML concepts<br>⚡ Fun fact: I love turning raw data into meaningful insights and impactful solutions 📊🚀
+🎓 B.Tech Graduate in Computer Science and Engineering with a specialization in Data Science<br>🤝 I’m looking to collaborate on machine learning, computer vision, NLP, and analytics-driven projects<br>🧑‍💻 I’m looking for help with deploying scalable AI/ML and data analytics applications<br>🌱 I’m currently learning deep learning, data visualization, and business analytics<br>💬 Ask me about Python, Flask, data analytics, and AI/ML concepts<br>⚡ Fun fact: I love turning raw data into meaningful insights and impactful solutions 📊🚀
 
 
 ## 🌐 Socials:
